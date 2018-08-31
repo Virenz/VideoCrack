@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\android\sdk\.android\build-cache\e36298f3df61780db712d8196d4bbbb38a413f0d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="027f0334a777ed6e2be76599ed86ce91d4c620cd">
+        <dex dex="D:\Projects\VideoCrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2bc40ca8909926b8ce5aed3f9f2014db1f040457\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\sdk\.android\build-cache\e1586ad8b9474c1222341906cd3fd3c7f24dd874\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\Projects\VideoCrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0fc8e8aaf25a2d413f2312839bc714dceab554b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\sdk\.android\build-cache\60f5346b1b3e408bc190a8a593b36b4e7ec0abba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\Projects\VideoCrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb1c05d76a49862ba17798a917aec3bd7e8736b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\sdk\.android\build-cache\60f5346b1b3e408bc190a8a593b36b4e7ec0abba\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Projects\VideoCrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_256de5b9a8f3cb865437b52f9a14974f567787cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\sdk\.android\build-cache\1e3334beb8e9f8daa07ed7ff70558fc5819f2e3a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\Projects\VideoCrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a14191a6d72a85622397ad494a9fc3d2e81d1c33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\sdk\.android\build-cache\341d0ff3c5e4b3fc2dcfc7a0ff0be8170ef07e5a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\Projects\VideoCrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c7ce5a0143399915ceb37d00ce40e69a080dee3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\sdk\.android\build-cache\f04e2089475b64cd5956a6b590fd4c5ba54e5057\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\Projects\VideoCrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b5d6bab08b3897dcf4821de4986811752cc9320f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\sdk\.android\build-cache\ed94a1a06b3d02c952bfb705ebe99ae5585906b6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\Projects\VideoCrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43fd36b4cfe41e8731eab4eb411d6e1a527dc3b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\sdk\.android\build-cache\fe3551006526e78bb35964a7e59e1fd507ef04b8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Projects\VideoCrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_64e7982ab916e324ed50055f8bba2ebf40bec66e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\VideoCrack\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Projects\VideoCrack\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_98d3e3f57b660e6ef9a511f2efad802f08c0af4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.1.0\d6854f42bfb4098d3d2358d93201307b9f1cc95d\butterknife-annotations-8.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="D:\Projects\VideoCrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.1.0_aeb99314c09e0fb69e42caa74095952585e86ea3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\sdk\.android\build-cache\32cb42c57533df0bfdf49ea7622fcfa0e7228771\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\Projects\VideoCrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a96cd57e74650a9c18fad2bee272afcdfe94d10a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\sdk\.android\build-cache\341d0ff3c5e4b3fc2dcfc7a0ff0be8170ef07e5a\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\Projects\VideoCrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b18a8228194914dfdcd285e25e59fb9b6dfa3ad7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\sdk\.android\build-cache\f04e2089475b64cd5956a6b590fd4c5ba54e5057\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\Projects\VideoCrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8e32c9d260423d0cde65bd171e2ba630015e92a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Projects\VideoCrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_2428dbd5eabf65ae69bc01abd6e4b72d08e545aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\sdk\.android\build-cache\ed94a1a06b3d02c952bfb705ebe99ae5585906b6\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\Projects\VideoCrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4fd00aafdbeb8a995aad7d71d3bcf29a07d3cc5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\sdk\.android\build-cache\b8b952c8a0a4ac6e561a267fd21972f5c5c42b97\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="D:\Projects\VideoCrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79440fe122cdf4cac115d01dacec46b9d7564ed0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\VideoCrack\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69ce0fa9d55f11671fe4113189bfb7864e31f7b9">
+        <dex dex="D:\Projects\VideoCrack\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2ef6b9962fce24caa32063ea094340719e91c118\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="D:\Projects\VideoCrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_78f0bb23743784ba5177d1b9659f6fa6d6a7bd06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\sdk\.android\build-cache\7a19fa1f72d5af5d2db9f16188c97f5399990679\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\Projects\VideoCrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41095757c7fd70be08136fb43dc24ee89e26a896\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\sdk\.android\build-cache\7a19fa1f72d5af5d2db9f16188c97f5399990679\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Projects\VideoCrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2ce19ea76404bd852e09212751635b3101b95ad4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\Projects\VideoCrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_94bd045ae47dc122be5f945cf2865f7af24907a0\classes.dex" />
+    </item>
+
+</items>

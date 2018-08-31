@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_start"
+            android:icon="@drawable/ic_menu_start"
+            android:title="主页" />
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/logo_iqiyi"
+            android:title="爱奇艺" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/logo_tx"
+            android:title="腾讯视频" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/logo_youku"
+            android:title="优酷" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/logo_sohu"
+            android:title="搜狐视频" />
+        <item
+            android:id="@+id/nav_bilibili"
+            android:icon="@drawable/logo_bilibili"
+            android:title="哔哩哔哩动画" />
+        <item
+            android:id="@+id/nav_acfun"
+            android:icon="@drawable/logo_acfun"
+            android:title="Acfun"
+            />
+        <item
+            android:id="@+id/nav_douyu"
+            android:icon="@drawable/logo_mianbao"
+            android:title="面包网"
+            />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_history"
+                android:title="历史记录" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_star"
+                android:title="追剧" />
+        </menu>
+    </item>
+
+</menu>
